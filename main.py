@@ -2,10 +2,7 @@ import sys
 import pygame
 
 from logger import log_state, log_event
-from player import Player
-from shot import Shot
-from asteroid import Asteroid
-from asteroidfield import AsteroidField
+from objects import *
 
 from constants import SCREEN_HEIGHT, SCREEN_WIDTH
 
