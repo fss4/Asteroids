@@ -12,3 +12,4 @@ wheels/
 #other
 game_state.jsonl
 test.py
+game_events.jsonl
